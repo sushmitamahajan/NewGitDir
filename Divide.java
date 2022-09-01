@@ -1,1 +1,6 @@
-changes made in divide!!
+public class Divide
+{
+  public static void main(String[] args) {
+    
+  }
+}
