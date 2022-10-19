@@ -9,3 +9,5 @@ public class Multiply
     System.out.println("Multiplication is ",a*b);
   }
 }
+
+Sushmita Mahajan made changes to Diff.java 
