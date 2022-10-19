@@ -1,3 +1,5 @@
 added text in Calc file
 
 merge add, subract, multiply 
+
+also added divide now
