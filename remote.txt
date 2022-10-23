@@ -1,1 +1,3 @@
 trigo functions code ready!!
+
+sine function added
