@@ -1,0 +1,3 @@
+trigo code
+
+cosine function added
